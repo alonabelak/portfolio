@@ -1,5 +1,5 @@
-# portfolio
-My portfolio
+# Portfolio
+
 The links to github pages of my works: 
 1. Responsive website Monticello. Used technologies: HTML, CSS, JS 
 https://alonabelak.github.io/githw/examjs/index.html
